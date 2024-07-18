@@ -1,0 +1,33 @@
+.form {
+    width: 420px;
+    height: auto;
+    border-radius: 20px;
+    padding: 30px 40px;
+    background-color: rgba(176, 253, 253, 0.637);
+    border: 2px solid black;
+  }
+  .form h1{
+    text-align: center;
+  }
+  .form .label{
+    font-size: 20px;
+    margin-left: 10%;
+    color: black;
+  }
+  .form .label1{
+    padding: 3%;
+    border-radius: 10px;
+    padding-right: 25%;
+    margin-left: 10%;
+  }
+  
+  .button {
+    padding: 10%;
+    margin: 10px 0;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    text-align: center;
+  }

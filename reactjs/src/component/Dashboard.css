@@ -1,0 +1,25 @@
+
+    
+.content{
+    height: 700px;
+    width: 78%;
+    float: right;
+ margin-top: 20px;
+  }
+  
+  .content h1, .content h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .content p {
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: left;
+  }
+  .navigation{
+    height: 700px;
+    width: 20%;
+    background-color: rgb(128, 216, 216);
+    float: left;
+  }
